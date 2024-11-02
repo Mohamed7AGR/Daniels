@@ -1,0 +1,827 @@
+@keyframes typing {
+    0% {
+      content: "|";
+    }
+    1% {
+      content: "D|";
+    }
+    3% {
+      content: "De|";
+    }
+    5% {
+      content: "Dev|";
+    }
+    7% {
+      content: "Deve|";
+    }
+    9% {
+      content: "Devel|";
+    }
+    11% {
+      content: "Develo|";
+    }
+    13% {
+      content: "Develop|";
+    }
+    15% {
+      content: "Develope|";
+    }
+    17% {
+      content: "Developer|";
+    }
+    19% {
+      content: "Develope|";
+    }
+    21% {
+      content: "Develop|";
+    }
+    23% {
+      content: "Develo|";
+    }
+    25% {
+      content: "Devel|";
+    }
+    27% {
+      content: "Deve|";
+    }
+    29% {
+      content: "Dev|";
+    }
+    31% {
+      content: "De|";
+    }
+    33% {
+      content: "D|";
+    }
+    35% {
+      content: "De|";
+    }
+    37% {
+      content: "Des|";
+    }
+    39% {
+      content: "Desi|";
+    }
+    41% {
+      content: "Desig|";
+    }
+    43% {
+      content: "Design|";
+    }
+    45% {
+      content: "Designe|";
+    }
+    47% {
+      content: "Designer|";
+    }
+    48% {
+      content: "Designe|";
+    }
+    49% {
+      content: "Design|";
+    }
+    50% {
+      content: "Desig|";
+    }
+    51% {
+      content: "Desi|";
+    }
+    52% {
+      content: "Des|";
+    }
+    53% {
+      content: "De|";
+    }
+    54% {
+      content: "D|";
+    }
+    55% {
+      content: "|";
+    }
+    56% {
+      content: "|";
+    }
+    57% {
+      content: "L|";
+    }
+    59% {
+      content: "La|";
+    }
+    61% {
+      content: "Lar|";
+    }
+    63% {
+      content: "Larr|";
+    }
+    65% {
+      content: "Larry|";
+    }
+    67% {
+      content: "Larry |";
+    }
+    69% {
+      content: "Larry D|";
+    }
+    71% {
+      content: "Larry Da|";
+    }
+    73% {
+      content: "Larry Dan|";
+    }
+    75% {
+      content: "Larry Dani|";
+    }
+    77% {
+      content: "Larry Danie|";
+    }
+    79% {
+      content: "Larry Daniel|";
+    }
+    81% {
+      content: "Larry Daniels|";
+    }
+    82% {
+      content: "Larry Daniels|";
+    }
+    85% {
+      content: "Larry Daniel|";
+    }
+    86% {
+      content: "Larry Danie|";
+    }
+    87% {
+      content: "Larry Dani|";
+    }
+    88% {
+      content: "Larry Dan|";
+    }
+    89% {
+      content: "Larry Da|";
+    }
+    90% {
+      content: "Larry D|";
+    }
+    91% {
+      content: "Larry|";
+    }
+    92% {
+      content: "Larr|";
+    }
+    93% {
+      content: "Lar|";
+    }
+    94% {
+      content: "La|";
+    }
+    95% {
+      content: "L|";
+    }
+    96% {
+      content: "|";
+    }
+    97% {
+      content: "|";
+    }
+    98% {
+      content: "|";
+    }
+    99% {
+      content: "";
+    }
+    100% {
+      content: "";
+    }
+  }
+  
+  @keyframes happy{
+    0%{
+      content: "17";
+    }
+    2%{
+      content: "34";
+    }
+    4%{
+      content: "51";
+    }
+    6%{
+      content: "55";
+    }
+    8%{
+      content: "70";
+    }
+    10%{
+      content: "80";
+    }
+    12%{
+      content: "85";
+    }
+    14%{
+      content: "88";
+    }
+    16%{
+      content: "95";
+    }
+    18%{
+      content: "102";
+    }
+    20%{
+      content: "107";
+    }
+    22%{
+      content: "118";
+    }
+    24%{
+      content: "126";
+    }
+    26%{
+      content: "135";
+    }
+    28%{
+      content: "145";
+    }
+    30%{
+      content: "160";
+    }
+    32%{
+      content: "170";
+    }
+    34%{
+      content: "180";
+    }
+    36%{
+      content: "190";
+    }
+    38%{
+      content: "200";
+    }
+    40%{
+      content: "220";
+    }
+    42%{
+      content: "225";
+    }
+    44%{
+      content: "237";
+    }
+    46%{
+      content: "245";
+    }
+    48%{
+      content: "259";
+    }
+    50%{
+      content: "268";
+    }
+    52%{
+      content: "275";
+    }
+    54%{
+      content: "285";
+    }
+    56%{
+      content: "300";
+    }
+    58%{
+      content: "310";
+    }
+    60%{
+      content: "320";
+    }
+    62%{
+      content: "335";
+    }
+    64%{
+      content: "345";
+    }
+    66%{
+      content: "360";
+    }
+    68%{
+      content: "390";
+    }
+    70%{
+      content: "420";
+    }
+    72%{
+      content: "535";
+    }
+    74%{
+      content: "545";
+    }
+    76%{
+      content: "560";
+    }
+    78%{
+      content: "690";
+    }
+    80%{
+      content: "620";
+    }
+    82%{
+      content: "635";
+    }
+    84%{
+      content: "745";
+    }
+    86%{
+      content: "760";
+    }
+    88%{
+      content: "790";
+    }
+    90%{
+      content: "800";
+    }
+    92%{
+      content: "810";
+    }
+    94%{
+      content: "820";
+    }
+    96%{
+      content: "830";
+    }
+    98%{
+      content: "840";
+    }
+    99%{
+      content: "850";
+    }
+    100%{
+      content: "850";
+    }
+  }
+  @keyframes Complete{
+    0%{
+      content: "5";
+    }
+    2%{
+      content: "10";
+    }
+    4%{
+      content: "15";
+    }
+    6%{
+      content: "20";
+    }
+    8%{
+      content: "25";
+    }
+    10%{
+      content: "30";
+    }
+    12%{
+      content: "35";
+    }
+    14%{
+      content: "40";
+    }
+    16%{
+      content: "45";
+    }
+    18%{
+      content: "50";
+    }
+    20%{
+      content: "55";
+    }
+    22%{
+      content: "60";
+    }
+    24%{
+      content: "65";
+    }
+    26%{
+      content: "70";
+    }
+    28%{
+      content: "75";
+    }
+    30%{
+      content: "80";
+    }
+    32%{
+      content: "85";
+    }
+    34%{
+      content: "90";
+    }
+    36%{
+      content: "95";
+    }
+    38%{
+      content: "100";
+    }
+    40%{
+      content: "102";
+    }
+    42%{
+      content: "105";
+    }
+    44%{
+      content: "109";
+    }
+    46%{
+      content: "110";
+    }
+    48%{
+      content: "112";
+    }
+    50%{
+      content: "115";
+    }
+    52%{
+      content: "123";
+    }
+    54%{
+      content: "127";
+    }
+    56%{
+      content: "133";
+    }
+    58%{
+      content: "137";
+    }
+    60%{
+      content: "140";
+    }
+    62%{
+      content: "141";
+    }
+    64%{
+      content: "147";
+    }
+    66%{
+      content: "157";
+    }
+    68%{
+      content: "160";
+    }
+    70%{
+      content: "166";
+    }
+    72%{
+      content: "170";
+    }
+    74%{
+      content: "177";
+    }
+    76%{
+      content: "185";
+    }
+    78%{
+      content: "188";
+    }
+    80%{
+      content: "190";
+    }
+    82%{
+      content: "199";
+    }
+    84%{
+      content: "200";
+    }
+    86%{
+      content: "210";
+    }
+    88%{
+      content: "212";
+    }
+    90%{
+      content: "215";
+    }
+    92%{
+      content: "217";
+    }
+    94%{
+      content: "223";
+    }
+    96%{
+      content: "225";
+    }
+    98%{
+      content: "228";
+    }
+    99%{
+      content: "230";
+    }
+    100%{
+      content: "230";
+    }
+  }
+  @keyframes Lines{
+    0%{
+      content: "50";
+    }
+    2%{
+      content: "100";
+    }
+    4%{
+      content: "150";
+    }
+    6%{
+      content: "200";
+    }
+    8%{
+      content: "250";
+    }
+    10%{
+      content: "300";
+    }
+    12%{
+      content: "350";
+    }
+    14%{
+      content: "400";
+    }
+    16%{
+      content: "500";
+    }
+    18%{
+      content: "550";
+    }
+    20%{
+      content: "600";
+    }
+    22%{
+      content: "700";
+    }
+    24%{
+      content: "900";
+    }
+    26%{
+      content: "1000";
+    }
+    28%{
+      content: "1150";
+    }
+    30%{
+      content: "1300";
+    }
+    32%{
+      content: "1400";
+    }
+    34%{
+      content: "1500";
+    }
+    36%{
+      content: "1600";
+    }
+    38%{
+      content: "1700";
+    }
+    40%{
+      content: "1920";
+    }
+    42%{
+      content: "2255";
+    }
+    44%{
+      content: "2299";
+    }
+    46%{
+      content: "2560";
+    }
+    48%{
+      content: "2862";
+    }
+    50%{
+      content: "2955";
+    }
+    52%{
+      content: "3158";
+    }
+    54%{
+      content: "3298";
+    }
+    56%{
+      content: "3333";
+    }
+    58%{
+      content: "3787";
+    }
+    60%{
+      content: "3958";
+    }
+    62%{
+      content: "4265";
+    }
+    64%{
+      content: "4458";
+    }
+    66%{
+      content: "4785";
+    }
+    68%{
+      content: "4980";
+    }
+    70%{
+      content: "5230";
+    }
+    72%{
+      content: "5458";
+    }
+    74%{
+      content: "5956";
+    }
+    76%{
+      content: "6335";
+    }
+    78%{
+      content: "6666";
+    }
+    80%{
+      content: "6999";
+    }
+    82%{
+      content: "7582";
+    }
+    84%{
+      content: "7777";
+    }
+    86%{
+      content: "8000";
+    }
+    88%{
+      content: "8168";
+    }
+    90%{
+      content: "8698";
+    }
+    92%{
+      content: "8888";
+    }
+    94%{
+      content: "9000";
+    }
+    96%{
+      content: "9300";
+    }
+    98%{
+      content: "9350";
+    }
+    99%{
+      content: "9400";
+    }
+    100%{
+      content: "9450";
+    }
+  }
+  @keyframes Files{
+    0%{
+      content: "17";
+    }
+    2%{
+      content: "34";
+    }
+    4%{
+      content: "51";
+    }
+    6%{
+      content: "55";
+    }
+    8%{
+      content: "70";
+    }
+    10%{
+      content: "80";
+    }
+    12%{
+      content: "85";
+    }
+    14%{
+      content: "88";
+    }
+    16%{
+      content: "95";
+    }
+    18%{
+      content: "102";
+    }
+    20%{
+      content: "107";
+    }
+    22%{
+      content: "118";
+    }
+    24%{
+      content: "126";
+    }
+    26%{
+      content: "135";
+    }
+    28%{
+      content: "145";
+    }
+    30%{
+      content: "160";
+    }
+    32%{
+      content: "170";
+    }
+    34%{
+      content: "180";
+    }
+    36%{
+      content: "190";
+    }
+    38%{
+      content: "200";
+    }
+    40%{
+      content: "220";
+    }
+    42%{
+      content: "225";
+    }
+    44%{
+      content: "237";
+    }
+    46%{
+      content: "245";
+    }
+    48%{
+      content: "259";
+    }
+    50%{
+      content: "268";
+    }
+    52%{
+      content: "275";
+    }
+    54%{
+      content: "285";
+    }
+    56%{
+      content: "300";
+    }
+    58%{
+      content: "310";
+    }
+    60%{
+      content: "320";
+    }
+    62%{
+      content: "335";
+    }
+    64%{
+      content: "345";
+    }
+    66%{
+      content: "360";
+    }
+    68%{
+      content: "390";
+    }
+    70%{
+      content: "420";
+    }
+    72%{
+      content: "535";
+    }
+    74%{
+      content: "545";
+    }
+    76%{
+      content: "560";
+    }
+    78%{
+      content: "580";
+    }
+    80%{
+      content: "600";
+    }
+    82%{
+      content: "615";
+    }
+    84%{
+      content: "645";
+    }
+    86%{
+      content: "660";
+    }
+    88%{
+      content: "690";
+    }
+    90%{
+      content: "700";
+    }
+    92%{
+      content: "710";
+    }
+    94%{
+      content: "730";
+    }
+    96%{
+      content: "750";
+    }
+    98%{
+      content: "760";
+    }
+    99%{
+      content: "770";
+    }
+    100%{
+      content: "780";
+    }
+  }
